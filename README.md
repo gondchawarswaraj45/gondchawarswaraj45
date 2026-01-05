@@ -70,13 +70,11 @@ I work primarily with **Python, JavaScript, SQL, and backend systems**, and I’
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
 
 # 📊 GitHub Stats:
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gondchawarswaraj45&theme=transparent&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=gondchawarswaraj45&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=gondchawarswaraj45&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gondchawarswaraj45&layout=compact&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gondchawarswaraj45&theme=transparent&hide_border=true&layout=compact)
 
 </div>
+
