@@ -71,21 +71,12 @@ I work primarily with **Python, JavaScript, SQL, and backend systems**, and I’
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gondchawarswaraj45&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gondchawarswaraj45&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gondchawarswaraj45&theme=transparent&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gondchawarswaraj45&theme=transparent&hide_border=true)
 
----
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=gondchawarswaraj45&theme=transparent&hide_border=true)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gondchawarswaraj45&icon=0&color=0" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gondchawarswaraj45&layout=compact&theme=transparent&hide_border=true)
 
-[![](https://visitcount.itsvg.in/api?id=gondchawarswaraj45&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+</div>
