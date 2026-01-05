@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m SWARAJ RAJESH GONDCHAWAR , a Computer Engineering (TE) student with a strong interest in building practical and well-structured software solutions. I’m currently working on JavaScript fundamentals and creating interactive web features, while also strengthening my understanding of core computer science concepts like DBMS, OOP, and operating systems.<br><br>🚀 I’m learning Advanced SQL, AI/ML, and Large Language Models (LLMs) to broaden my technical skill set and prepare for real-world applications. I’m open to collaborating on Python, SQL, and web development projects, and I’m actively looking for internship opportunities that provide hands-on experience. ⚡ Fun fact: I enjoy understanding how systems work behind the scenes and breaking complex ideas into simple logic.
+👋 Hi, I’m **Swaraj Rajesh Gondchawar**, a Computer Engineering (TE) student focused on building practical and well-structured software solutions.
+
+I work primarily with **Python, JavaScript, SQL, and backend systems**, and I’m strengthening core CS fundamentals like **DBMS, OOP, and Operating Systems**. Currently, I’m exploring **Advanced SQL, AI/ML, and LLMs** to prepare for real-world applications.
+
+I’m actively seeking **internship opportunities** that offer hands-on development and problem-solving exposure.
+
 
 
 ## 🌐 Socials:
