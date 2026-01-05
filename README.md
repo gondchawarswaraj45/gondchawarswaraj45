@@ -3,8 +3,6 @@
 
 I work primarily with **Python, JavaScript, SQL, and backend systems**, and I’m strengthening core CS fundamentals like **DBMS, OOP, and Operating Systems**. Currently, I’m exploring **Advanced SQL, AI/ML, and LLMs** to prepare for real-world applications.
 
-I’m actively seeking **internship opportunities** that offer hands-on development and problem-solving exposure.
-
 
 
 ## 🌐 Socials:
