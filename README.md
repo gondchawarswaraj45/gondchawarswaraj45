@@ -78,6 +78,7 @@ I work primarily with **Python, JavaScript, SQL, and backend systems**, and I’
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gondchawarswaraj45&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=FF7B00&icon_color=FF7B00&text_color=FFFFFF" height="180"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gondchawarswaraj45&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=FF7B00&text_color=FFFFFF" height="180"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gondchawarswaraj45&theme=github_dark" height="180"/>
 </p>
+
