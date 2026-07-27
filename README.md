@@ -2,13 +2,11 @@
 
 
 
-## 💫 About Me:
+## 👋 About Me
 
- I’m a Computer Engineering (TE) student focused on building practical and well-structured software solutions.
+I'm Swaraj Gondchawar, a Final Year Computer Engineering student from India with a strong interest in software engineering and backend development.I primarily work with Java, building scalable applications using object-oriented principles while also exploring Python, JavaScript, SQL, and modern development tools.
 
-I work primarily with **Python, JavaScript, SQL, and backend systems**, and I’m strengthening core CS fundamentals like **DBMS, OOP, and Operating Systems**. Currently, I’m exploring **Advanced SQL, AI/ML, and LLMs** to prepare for real-world applications.
-
-
+Currently, I'm strengthening my knowledge in Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Cloud Computing, AI/ML, and Large Language Models through hands-on projects and continuous learning.I enjoy building practical software that solves real-world problems and continuously improving my engineering skills with every project.
 
 ## 🌐 Social Media :
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F00?style=flat&logo=googlechrome&logoColor=white)](https://swaraj-gondchawar.netlify.app) [![email](https://img.shields.io/badge/Email_1-D14836?logo=gmail&logoColor=white)](mailto:swarajgondchawar@gmail.com) [![email](https://img.shields.io/badge/Email_2-D14836?logo=gmail&logoColor=white)](mailto:swarajgondchawar.sits.comp@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gondchawarswaraj45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gondchawarswaraj45) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gondchawarswaraj45) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ImSwaraj45) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@gondchawarswaraj45)
@@ -17,8 +15,8 @@ I work primarily with **Python, JavaScript, SQL, and backend systems**, and I’
 ### 🔹 Core Skills (Hands-on & Comfortable)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
