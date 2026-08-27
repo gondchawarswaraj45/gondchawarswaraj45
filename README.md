@@ -79,4 +79,13 @@ Currently, I'm strengthening my knowledge in Data Structures & Algorithms, DBMS,
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gondchawarswaraj45&theme=github_dark" height="180"/>
 </p>
+<h2>📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gondchawarswaraj45&theme=highcontrast&hide_border=true" height="180"/>
+</p>
+<h2>📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gondchawarswaraj45&theme=github-compact&hide_border=true" width="95%"/>
+</p>
