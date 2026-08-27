@@ -75,17 +75,6 @@ Currently, I'm strengthening my knowledge in Data Structures & Algorithms, DBMS,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gondchawarswaraj45&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=FF7B00&icon_color=FF7B00&text_color=FFFFFF" height="180"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gondchawarswaraj45&theme=github_dark" height="180"/>
-</p>
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gondchawarswaraj45&theme=highcontrast&hide_border=true" height="180"/>
-</p>
-<h2>📈 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gondchawarswaraj45&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gondchawarswaraj45&theme=github_dark" width="35%" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gondchawarswaraj45&theme=github_dark" width="60%" height="180"/>
 </p>
