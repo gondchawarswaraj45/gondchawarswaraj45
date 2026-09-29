@@ -83,16 +83,6 @@ Currently, I'm strengthening my knowledge in Data Structures & Algorithms, DBMS,
 
 ---
 
-### 🔹 APIs & Integrations
-
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)](https://mapsplatform.google.com/)
-[![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)](https://calendar.google.com/)
-[![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=googlemeet&logoColor=white)](https://meet.google.com/)
-[![Cashfree](https://img.shields.io/badge/Cashfree-0A66C2?style=flat&logoColor=white)](https://www.cashfree.com/)
-
----
-
 ### 🔹 Cybersecurity
 
 [![Gophish](https://img.shields.io/badge/Gophish-000000?style=flat&logoColor=white)](https://getgophish.com/)
